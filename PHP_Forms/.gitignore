@@ -1,0 +1,18 @@
+# Database credentials
+db.php
+
+# Environment variables
+.env
+.env.*
+
+# Dependencies
+vendor/
+
+# Private user files
+storage/
+
+# Logs
+*.log
+
+# Editor
+.idea/
