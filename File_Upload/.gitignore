@@ -1,0 +1,9 @@
+# Database credentials
+db.php
+
+# Environment files
+.env
+.env.*
+
+# Uploaded files
+storage/uploads/
